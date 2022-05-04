@@ -1,0 +1,9 @@
+header img{
+    border-radius: 50%;
+}
+header{
+    display: flex;
+}
+p{
+    margin-right: 90%;
+}

@@ -1,0 +1,19 @@
+h1{
+    margin-left: 168px;
+    
+
+}
+img{
+    border-radius: 50%;
+    align-items: center;
+
+}
+.profile{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-emphasis-position: fixed;
+}
+.address{
+    margin-left: 120px;
+    text-decoration: darkgrey;
+    text-emphasis-position: fixed;
+}

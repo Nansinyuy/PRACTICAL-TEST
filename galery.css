@@ -1,0 +1,21 @@
+.galery1{
+    margin-right: 50%;
+    padding: 10px, 10px, 5px;
+    border: solid rgb(201, 201, 250)
+    
+}
+div h1{
+    background-color: rgb(89, 89, 243);
+    margin-top: 0%;
+    width: 100%;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0%;
+}
+h1{
+    text-align: center;
+}
+ img{
+     padding: 5px;
+     height: 200;
+ }
